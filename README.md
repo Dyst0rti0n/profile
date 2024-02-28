@@ -25,7 +25,6 @@ Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO s
 [![Node.js][nodejs-shield]][nodejs-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
-[![ThreeJS][threejs-shield][threejs-url]
 
 <!-- Shields Links -->
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -56,3 +55,5 @@ Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO s
 - **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+Profile Layout Credit goes to: [pentestfunctions - github](https://github.com/pentestfunctions)
