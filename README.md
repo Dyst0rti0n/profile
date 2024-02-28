@@ -5,51 +5,34 @@
   <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
 </p>
 
-## Ethical Hacker | Penetration Tester | Security Researcher
+## Ethical Hacker 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
-- 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** Rust and advanced penetration testing techniques.
-- 👯 **Collaborating:** Open to all kinds of penetration testing projects.
-- 💬 **Ask Me About:** Anything related to hacking, penetration testing, or cybersecurity.
-- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
-- ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
+- 🔭 **Currently Working On:** Multiple Websites, companies and Autodork.
+- 🌱 **Learning:** Web Dev, Ethical Hacking
+- 📫 **Reach Me At:** [Discord - Nokturnal] 
 
 ### 🤖 Projects I want you to see
 
-- **WSL Seamless mode:** [WSL-Seamless](https://github.com/pentestfunctions/WSL-Seamless)
-- **OSINT Master Tool:** [OSINT Automation Test](https://github.com/pentestfunctions/OSINT-MasterTool)
-- **Konsole QuickCommands:** [Konsole Quick Commands](https://github.com/pentestfunctions/konsole-quickcommands)
-- **Paramfinder** [Param Finder](https://github.com/pentestfunctions/paramfinder)
-- **Hackerhelp** [Hacker help](https://github.com/pentestfunctions/hackerhelp)
-- **Permissioncheck** [Quickly Check Permissions](https://github.com/pentestfunctions/permissioncheck)
-- **Get IPs from Telegram** [Telgram IP Grabber](https://github.com/pentestfunctions/telegram-get-remote-ip)
-- **QuickCommands for Windows** [Windows Quick Commands](https://github.com/pentestfunctions/Windows-Terminal-Upgrade)
-  
+- **Autodork:** [Autodork](https://github.com/Dyst0rti0n/autodork)
+
 ---
-Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. 
+Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO shame because it's useful an saves time. 
 ---
 
 ### Languages and Tools:
 
 [![Python][python-shield]][python-url]
-[![Rust][rust-shield]][rust-url]
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
 [![Metasploit][metasploit-shield]][metasploit-url]
-[![C][c-shield]][c-url]
-[![C++][cpp-shield]][cpp-url]
 [![HTML5][html5-shield]][html5-url]
 [![JavaScript][javascript-shield]][javascript-url]
-[![CSS3][css3-shield]][css3-url]
 [![Node.js][nodejs-shield]][nodejs-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
-[![PowerShell][powershell-shield]][powershell-url]
-[![Batch][batch-shield]][batch-url]
-[![Ruby][ruby-shield]][ruby-url]
-[![Perl][perl-shield]][perl-url]
+[![ThreeJS][threejs-shield][threejs-url]
 
 <!-- Shields Links -->
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
