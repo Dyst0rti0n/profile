@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 - **Autodork:** [Autodork](https://github.com/Dyst0rti0n/autodork)
 
 ---
-Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO shame because it's useful an saves time. 
+Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO shame because it's useful and saves time. 
 ---
 
 ### Languages and Tools:
