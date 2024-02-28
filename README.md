@@ -4,8 +4,9 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 
 - 🔭 **Currently Working On:** Multiple Websites, companies and Autodork.
 - 🌱 **Learning:** Web Dev, Ethical Hacking
-- 📫 **Reach Me At:** [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Moderator
-                       [Discord - hackNexus](https://discord.gg/9SuY45CT) - Admin
+- 📫 **Reach Me At:**
+    [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Moderator
+    [Discord - hackNexus](https://discord.gg/9SuY45CT) - Admin
 
 ### 🤖 Projects I want you to see
 
