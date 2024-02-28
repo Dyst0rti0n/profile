@@ -1,10 +1,11 @@
-## Ethical Hacker 
+## Ethical Hacker
 
-Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
+Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
 - 🔭 **Currently Working On:** Multiple Websites, companies and Autodork.
 - 🌱 **Learning:** Web Dev, Ethical Hacking
-- 📫 **Reach Me At:** [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj)
+- 📫 **Reach Me At:** [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Moderator
+                       [Discord - hackNexus](https://discord.gg/9SuY45CT) - Admin
 
 ### 🤖 Projects I want you to see
 
