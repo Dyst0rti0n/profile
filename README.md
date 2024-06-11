@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Dystorti0n/bug_bounty_notes" title="bug_bounty_notes">
-    <img align="left" height="115" src="https://dystorti0n-github-readme-stats.vercel.app/api/pin/?username=Dystorti0n&repo=bug_bounty_notes&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dystorti0n&repo=bug_bounty_notes&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
