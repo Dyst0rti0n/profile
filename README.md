@@ -2,9 +2,10 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CE09EC&center=true&random=false&width=435&lines=Dystortion;Programmer%2FWeb+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CE09EC&center=true&vCenter=true&width=435&lines=Dystortion;Programmer%2FWeb+Developer" alt="Typing SVG" />
     </a>
 </h1>
+
 
 ## Ethical Hacker
 
