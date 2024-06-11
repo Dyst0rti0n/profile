@@ -10,9 +10,9 @@ h<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyst0rti0n
 
 ## Ethical Hacker
 
-Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
+I am passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
-- 🔭 **Currently Working On:** Multiple Websites, companies and Autodork.
+- 🔭 **Currently Working**
 - 🌱 **Learning:** Web Dev, Ethical Hacking
 - 📫 **Reach Me At:**
     [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Admin
@@ -104,7 +104,5 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
-
-<h3 align="left>Now Playing:</h3>
 
 [![Spotify](https://spotify-for-readme-git-main-dystortions-projects.vercel.app/api/spotify)](https://open.spotify.com/user/dmloptwxomd5o7z49fqc9xajd)
