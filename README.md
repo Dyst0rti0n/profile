@@ -6,6 +6,7 @@
     </a>
 </h1>
 
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 ## Ethical Hacker
 
@@ -16,7 +17,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 - 📫 **Reach Me At:**
     [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Admin
 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -39,7 +40,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
   <a href="https://github.com/Dyst0rti0n?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 ### Languages and Tools
 
@@ -70,7 +71,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
   </a>
 </p>
 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 ![Dyst0rti0n's Stats](https://github-readme-stats.vercel.app/api?username=Dyst0rti0n&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![Dyst0rti0n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dyst0rti0n&theme=material-palenight&hide_border=true)
@@ -97,12 +98,5 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 [nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
 [nmap-url]: https://nmap.org/
 
-### 📚 Essential Resources for Penetration Testers
-
-- **Cheat Sheets:** [Pentest Book by Six2dez](https://pentestbook.six2dez.com/)
-- **OSINT Tools:** [OSINT Framework](https://osintframework.com/)
-- **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
-
-Profile Layout Credit goes to: [pentestfunctions - github](https://github.com/pentestfunctions)
