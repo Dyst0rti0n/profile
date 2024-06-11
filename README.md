@@ -74,7 +74,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-two-68.vercel.app/api?username=Dyst0rti0n&show_icons=true&theme=radical" alt="Dystortion's GitHub Stats" />
+  <img src="https://github-readme-stats-eta-two-68.vercel.app/api?username=Dyst0rti0n&show_icons=true&theme=buefy-dark" alt="Dystortion's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dyst0rti0n&theme=buefy-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
