@@ -1,4 +1,4 @@
-h<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyst0rti0n.profile">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyst0rti0n.profile">
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
