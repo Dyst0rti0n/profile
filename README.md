@@ -100,3 +100,9 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+[![Spotify](https://spotify-for-readme-git-main-dystortions-projects.vercel.app/api/spotify)](https://open.spotify.com/user/dmloptwxomd5o7z49fqc9xajd)
