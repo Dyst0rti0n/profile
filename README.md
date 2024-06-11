@@ -76,6 +76,7 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 ![Dyst0rti0n's Stats](https://github-readme-stats.vercel.app/api?username=Dyst0rti0n&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![Dyst0rti0n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dyst0rti0n&theme=material-palenight&hide_border=true)
 ![Dyst0rti0n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyst0rti0n&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![snake animation](https://github.com/Dyst0rti0n/Dyst0rti0n/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!-- Shields Links -->
