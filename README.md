@@ -1,3 +1,9 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyst0rti0n.profile">
+
+<h1 align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CE09EC&center=true&random=false&width=435&lines=Dystortion;Programmer%2FWeb+Developer)](https://git.io/typing-svg)
+</h1>
+
 ## Ethical Hacker
 
 Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
@@ -12,10 +18,11 @@ Welcome to my GitHub! I'm Dystortion. I am passionate about cybersecurity, ethic
 - **Autodork:** [Autodork](https://github.com/Dyst0rti0n/autodork)
 
 ---
-Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO shame because it's useful and saves time. 
+
+Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO shame because it's useful and saves time
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 [![Python][python-shield]][python-url]
 [![Bash][bash-shield]][bash-url]
@@ -46,8 +53,6 @@ Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. NO s
 [wireshark-url]: https://www.wireshark.org/
 [nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
 [nmap-url]: https://nmap.org/
-[powershell-shield]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-[powershell-url]: https://docs.microsoft.com/en-us/powershell/
 
 ### 📚 Essential Resources for Penetration Testers
 
