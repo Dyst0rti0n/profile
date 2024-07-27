@@ -42,6 +42,14 @@ I am passionate about cybersecurity, ethical hacking, and continuous learning in
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
+### Latest Blog Post
+<!-- BLOG_SECTION_START -->
+<!-- BLOG_SECTION_END -->
+
+### Golang Learning Path
+<!-- LEARNING_PATH_SECTION_START -->
+<!-- LEARNING_PATH_SECTION_END -->
+
 ### Languages and Tools
 
 [![Python][python-shield]][python-url]
@@ -52,6 +60,8 @@ I am passionate about cybersecurity, ethical hacking, and continuous learning in
 [![JavaScript][javascript-shield]][javascript-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
+[![Goland][goland-shield]][goland-url]
+[![C#][csharp-shield]][csharp-url]
 
 <p align="left">  
   <a href="https://github.com/harish-sethuraman/readme-components">
@@ -97,12 +107,7 @@ I am passionate about cybersecurity, ethical hacking, and continuous learning in
 [wireshark-url]: https://www.wireshark.org/
 [nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
 [nmap-url]: https://nmap.org/
-
-
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-[![Spotify](https://spotify-for-readme-git-main-dystortions-projects.vercel.app/api/spotify)](https://open.spotify.com/user/dmloptwxomd5o7z49fqc9xajd)
+[goland-shield]: https://img.shields.io/badge/GoLand-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[goland-url]: https://www.jetbrains.com/go/
+[csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+[csharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
