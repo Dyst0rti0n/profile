@@ -22,7 +22,7 @@ I am passionate about cybersecurity, ethical hacking, and continuous learning in
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Dyst0rti0n/autodork" title="Autodork"><img align="left" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=autodork&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Dyst0rti0n/CVE-PoC-Finder" title="CVE Finder"><img align="right" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=CVE-PoC-Finder&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Dyst0rti0n/bash-linter" title="Bash Linter"><img align="left" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=bash-linter&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Dyst0rti0n/CVE-PoC-Finder" title="CVE Finder"><img align="right" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=CVE-PoC-Finder&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -32,7 +32,7 @@ I am passionate about cybersecurity, ethical hacking, and continuous learning in
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Dyst0rti0n/google_id_tracker" title="Google ID Tracker"><img align="left" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=google_id_tracker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Dys0rti0n/profile" title="Profile"><img align="right" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=profile&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Dys0rti0n/gonetdiag" title="Go Network Diagnostics"><img align="right" height="115" src="https://github-readme-stats-eta-two-68.vercel.app/api/pin/?username=Dyst0rti0n&repo=gonetdiag&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
