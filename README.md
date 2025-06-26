@@ -8,17 +8,6 @@
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
-## Ethical Hacker
-
-I am passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
-
-- 🔭 **Currently Working**
-- 🌱 **Learning:** Web Dev, Ethical Hacking
-- 📫 **Reach Me At:**
-    [Discord - Nokturnal](https://discord.gg/PgQjS3t4vj) - Admin
-
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
